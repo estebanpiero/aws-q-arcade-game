@@ -1,0 +1,110 @@
+{
+  "name": "Lambda",
+  "description": "AWS Lambda - Serverless Computing",
+  "grid_width": 20,
+  "grid_height": 15,
+  "bricks": [
+    {
+      "x": 7,
+      "y": 2,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 9,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 10,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 12,
+      "color": "purple",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "color": "purple",
+      "durability": 1
+    }
+  ]
+}

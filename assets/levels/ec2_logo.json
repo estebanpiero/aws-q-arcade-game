@@ -1,0 +1,284 @@
+{
+  "name": "EC2",
+  "description": "Elastic Compute Cloud - Server Infrastructure",
+  "grid_width": 20,
+  "grid_height": 15,
+  "bricks": [
+    {
+      "x": 4,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 2,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 3,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 4,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 8,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "color": "orange",
+      "durability": 1
+    },
+    {
+      "x": 15,
+      "y": 9,
+      "color": "orange",
+      "durability": 1
+    }
+  ]
+}

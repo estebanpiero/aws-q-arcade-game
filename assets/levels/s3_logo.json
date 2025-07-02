@@ -1,0 +1,260 @@
+{
+  "name": "S3",
+  "description": "Simple Storage Service - Scalable Storage",
+  "grid_width": 20,
+  "grid_height": 15,
+  "bricks": [
+    {
+      "x": 6,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "color": "green",
+      "durability": 1
+    }
+  ]
+}
